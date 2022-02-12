@@ -28,6 +28,10 @@
     ],
     "rules": {
         "import/prefer-default-export": "off",
-        "import/no-unresolved": "off"
+        "no-useless-constructor": "off",
+        "import/no-unresolved": "off",
+        "no-empty-function": "off",
+        "no-unused-vars":"off",
+        "no-console": "off"
     }
 }
